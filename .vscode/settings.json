@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/ngb/Documents/Projects/my_prjs/python_prjs/num_guess/venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
