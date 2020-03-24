@@ -17,7 +17,7 @@ print(
     + ", I am storing a number between 1 and 100 in my memory... what is it?"
 )
 
-while guessesTaken < 50:
+while guessesTaken 20:
     # print("Take a Guess if you dare... Meatbag known as " + myName)
     guess = input()
     guess = int(guess)
